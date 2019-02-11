@@ -1,0 +1,8 @@
+C:\Users\Administratör\Documents\Visual Studio 2015\Projects\examplePaint\examplePaint\bin\Debug\examplePaint.exe
+C:\Users\Administratör\Documents\Visual Studio 2015\Projects\examplePaint\examplePaint\bin\Debug\examplePaint.pdb
+C:\Users\Administratör\Documents\Visual Studio 2015\Projects\examplePaint\examplePaint\obj\Debug\examplePaint.csprojResolveAssemblyReference.cache
+C:\Users\Administratör\Documents\Visual Studio 2015\Projects\examplePaint\examplePaint\obj\Debug\examplePaint.Properties.Resources.resources
+C:\Users\Administratör\Documents\Visual Studio 2015\Projects\examplePaint\examplePaint\obj\Debug\examplePaint.csproj.GenerateResource.Cache
+C:\Users\Administratör\Documents\Visual Studio 2015\Projects\examplePaint\examplePaint\obj\Debug\examplePaint.exe
+C:\Users\Administratör\Documents\Visual Studio 2015\Projects\examplePaint\examplePaint\obj\Debug\examplePaint.pdb
+C:\Users\Administratör\Documents\Visual Studio 2015\Projects\examplePaint\examplePaint\obj\Debug\examplePaint.Form1.resources
