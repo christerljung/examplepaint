@@ -15,19 +15,16 @@ namespace examplePaint
         FigurCircel circ;
         public Form1()
         {
-            InitializeComponent();
-            
+            InitializeComponent();            
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             rekt = new FigurRektangel();
             this.Controls.Add(rekt);
         }
-
         private void button2_Click(object sender, EventArgs e)
         {
-            circ = new FigurCircel();
+            circ = new FigurCircel("pen");
             this.Controls.Add(circ);
         }
     }
